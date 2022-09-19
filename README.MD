@@ -1,7 +1,6 @@
-# assignment-7-base<br>
+# ToDo List<br>
 
 Name: Akash Sumaria<br>
-NUID: 001568622<br>
 Base repo for assignment 7<br>
 
 Follow the below steps to run the project<br>
